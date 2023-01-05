@@ -18,7 +18,7 @@ local Tab = Window:MakeTab({
     PremiumOnly = false
 })
 
-_G.Key = "ZHUB-Paid-276494J
+_G.Key = "ZHUB-Paid-276494J"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
